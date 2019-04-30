@@ -1,2 +1,2 @@
-# iocage-plugin-sabnzbd
-Test to install sabnzbd plugin
+# iocage-plugin-sabnzbdplus
+Artifact file(s) for iocage sabnzbdplus plugin.
